@@ -1,0 +1,13 @@
+{
+  "name": "test_measmerize",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Giuseppe Esposito",
+  "license": "MIT",
+  "scripts": {
+    "test": "node solution.js"
+  },
+  "dependencies": {
+    "node": "^19.6.1"
+  }
+}
